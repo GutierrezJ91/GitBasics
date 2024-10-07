@@ -15,6 +15,6 @@ This README file is a markdown file. When using a markdown file, here are some t
 1. **BOLD TEXT** is displayed when using "**" before and after the phrase. 
 2. *ITALICS* is displayed when using "*" before and after the phrase.    
 3. ~~STRIKETHROUGH~~ is displayed when using "~~" before and after the phrase.
-4. **BOLD AND _NESTED ITALICS_** is displayed when using "**" before and after the entire phrase + "_" before and after the italicised phrase.  
-5. ***ALL BOLD AND ITALICS***  
+4. **BOLD AND _NESTED ITALICS_** is displayed when using "**" before and after the entire phrase + "_" before and after the nested phrase. 
+5. ***ALL BOLD AND ITALICS*** is displayed when using "***" before and after the phrase.  
 
