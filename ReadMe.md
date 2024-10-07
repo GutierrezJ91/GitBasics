@@ -4,7 +4,7 @@
 
 This README file is a markdown file. When using a markdown file, here are some tips:
 
-1. **BOLD TEXT** are displayed when using " **<phrase>** "  
+1. **BOLD TEXT** are displayed when using ** ** around the phrase. 
 2. *ITALICS* are displayed when using " *<phrase>** "   
 ~~STRIKETHROUGH~~  
 **BOLD AND _NESTED ITALICS_**   
