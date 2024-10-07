@@ -9,10 +9,10 @@ This README file is a markdown file. When using a markdown file, here are some t
 3. Heading 3 is "###" + text  
 4. ...  
 
-###Formatting Text:
+### Formatting Text:
 1. **BOLD TEXT** is displayed when using "**" before and after the phrase. 
 2. *ITALICS* is displayed when using "*" before and after the phrase.    
-3. ~~STRIKETHROUGH~~ is displayed 
+3. ~~STRIKETHROUGH~~ is displayed
 4. **BOLD AND _NESTED ITALICS_**   
 5. ***ALL BOLD AND ITALICS***  
 
